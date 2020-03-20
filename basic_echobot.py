@@ -1,3 +1,6 @@
+# creating an Hello world chatbot using basic python 
+# Stringd
+#inputs
 print("welcome to Owen's echo chatbots")
 #you will be able to get back the user response
 print("I will repeat after you")
