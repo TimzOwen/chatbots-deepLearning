@@ -51,7 +51,10 @@ This involves use of Deep Learning such as LSTM-based sequence to sequence model
 
 # On Conversation Domain
 
-1.0	Closed domain/Dialog agents
+1.0	Closed domain/Dialog 
+
+![chatbotcustomerfocused](https://user-images.githubusercontent.com/34624703/77236326-970f0380-6bce-11ea-8b1f-6340aaaacb10.jpg)
+
 
 Chatbot providing response within a particular focus. Such as booking a hotel, Safaricom M-Pesa or Kabarak university Mess meals.
 
