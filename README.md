@@ -37,6 +37,8 @@ Chatbot are entirely predefined and return to the user exactly the set rules
 
 2.	Retrival –based Models
 
+![systemchatbot](https://user-images.githubusercontent.com/34624703/77239740-26c4aa00-6bef-11ea-8c6e-7ac4878115ab.jpg)
+
 This are chatbots working almost like the rule-based models but response are pulled from existing
 
 Corpus dialog. Introduces Machine Learning models such as Natural Language Processing (NLP) and
@@ -69,6 +71,8 @@ This chatbots mimic human-human conversation as they explore any range of conver
 The user or the bot can take the initiatives of asking or being asked questions.
 
 2.0	System-initiative bots.
+
+![conversational](https://user-images.githubusercontent.com/34624703/77239745-2a583100-6bef-11ea-9750-a8a29caf4f7d.jpg)
 
 The bot takes control of all the initiatives by making the user only answer the question such as “how may I help you?” and the user
 
